@@ -270,8 +270,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### **Developer**
 - **Name**: Tanvi Konde
-- **GitHub**: [@tanvikonde](https://github.com/tanvikonde)
-- **Email**: kondetanvi@gmail.com
+- **GitHub**: [@tanvikonde](https://github.com/vedantimalpure)
+- **Email**: malpurevedantisunil@gmail.com
 
 ### **Issues & Bug Reports**
 Please use the [GitHub Issues](https://github.com/yourusername/deepfake-detection-system/issues) page for:
