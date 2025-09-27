@@ -269,8 +269,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 ### **Developer**
-- **Name**: Tanvi Konde
-- **GitHub**: [@tanvikonde](https://github.com/vedantimalpure)
+- **Name**: Vedanti Malpure
+- **GitHub**: [@vedantimalpure](https://github.com/vedantimalpure)
 - **Email**: malpurevedantisunil@gmail.com
 
 ### **Issues & Bug Reports**
